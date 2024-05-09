@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## Name : Iniyasri.S
+## Register number : 212223230081
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
